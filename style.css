@@ -1,5 +1,4 @@
-#profile-container
-{
+#profile-container {
     width: 200px;
     border: 1px solid black;
     border-radius: 10px;
@@ -10,7 +9,7 @@
     flex-direction: column;
 }
 
-.profile-pic{
+.profile-pic {
     width: 200px;
     height: 200px;
     align-self: center;
